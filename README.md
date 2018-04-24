@@ -7,7 +7,7 @@
 - `1.13.2`, `1.13`, `1` [(*Dockerfile*)]()
 - `1.7.7`, `1.7` [(*Dockerfile*)]()
 
-## Difference from the official Dockerfile
+## Difference from the official Dockerfile and eZ Launchpad
 
 - based on CentOS container image
 

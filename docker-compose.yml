@@ -1,3 +1,7 @@
+# https://github.com/ezsystems/ezplatform/blob/master/doc/docker/install.yml
+# https://github.com/ezsystems/ezplatform/blob/master/doc/docker/base-dev.yml
+# https://github.com/ezsystems/launchpad/blob/master/payload/dev/docker-compose.yml
+
 version: '3.5'
 services:
   ezp:

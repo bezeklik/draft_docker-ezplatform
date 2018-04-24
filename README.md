@@ -1,3 +1,5 @@
+![eZ Platform](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/EZ_Publish_Logo.svg/320px-EZ_Publish_Logo.svg.png)
+
 ## Supported tags and respective `Dockerfile` links
 
 - `2.1.0`, `2.1`, `2`, `lastest` [(*Dockerfile*)]()
